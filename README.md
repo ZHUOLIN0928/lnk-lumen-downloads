@@ -11,11 +11,11 @@
 - macOS · Apple silicon / Intel · DMG
 - Windows · x64 · 安装器 / Portable 便携版
 
-请前往 [Releases](https://github.com/ZHUOLIN0928/lnk-lumen-downloads/releases) 下载对应版本。
+请前往 [Releases](https://github.com/ZHUOLIN0928/lnk-lumen-downloads/releases) 下载对应版本，或从 [Lnk Lumen 官网](https://zhuolin0928.github.io/lnk-lumen/download/) 选择适合的安装包。
 
 ## 校验值
 
-每个 Release 页面都提供对应文件的 SHA-256 校验值。本轮构建未提供 updater 签名文件；macOS 使用本机 ad-hoc 签名，尚未完成 Apple Developer 公证，Windows 安装包尚未代码签名，首次打开时可能会看到安全提示。
+每个 Release 页面都提供对应文件的 SHA-256 校验值；历史 v1.7.0 资产另附 `SHA256SUMS-v1.7.0.txt`。v2.5.0 本轮构建未提供 updater 签名文件；macOS 使用本机 ad-hoc 签名，尚未完成 Apple Developer 公证，Windows 安装包尚未代码签名，首次打开时可能会看到安全提示。
 
 ## 许可说明
 
